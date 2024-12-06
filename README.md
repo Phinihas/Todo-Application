@@ -82,5 +82,21 @@ A sleek and feature-rich todo application built with HTML, CSS, and vanilla Java
 4. Due date notifications
 5. Advanced category management
 
+
+
+
+## 👥 Contact
+
+- Name: Phinihas
+- Email: phinihasgandi@gmail.com
+- Phone: +91 7995802047
+- Location: Kakinada, Andhra Pradesh, India
+
+## 📱 Social Media
+
+- Instagram: https://www.instagram.com/phinihasgandi/
+- Twitter: https://x.com/GandiPhinihas
+
+
 ---
 Made with ❤️ for better task management
